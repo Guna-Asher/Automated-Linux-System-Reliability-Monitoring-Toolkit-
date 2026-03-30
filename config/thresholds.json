@@ -1,0 +1,6 @@
+{
+  "cpu_threshold": 70,
+  "memory_threshold": 80,
+  "disk_threshold": 80,
+  "failed_login_attempts_threshold": 5
+}
