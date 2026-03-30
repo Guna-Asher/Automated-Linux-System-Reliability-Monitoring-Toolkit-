@@ -186,18 +186,7 @@ Restarted nginx successfully.
 - **Containerization**: Dockerfile for Kubernetes CronJob.
 - **Distributed Tracing**: OpenTelemetry for multi-host fleets.
 
-## Resume Value Section
-
-This project showcases fresher SRE/DevOps skills recruiters prioritize:
-
-- **Observability Engineering**: Implemented four golden signals + custom metrics/logs.
-- **Automation & Scripting**: Python/Bash modules, cron orchestration.
-- **Linux Systems**: Deep systemctl, log parsing, psutil expertise.
-- **Incident Management**: Alerting, self-healing, reporting pipelines.
-- **SRE Mindset**: SLOs, toil reduction, error budgets in production-like code.
-- **Portfolio Impact**: Deployable today; scales to prod with minor extensions (e.g., Prometheus).
-
-[Deploy Demo](https://github.com/yourusername/linux-reliability-monitor) | [Live Logs](logs/) | Fork & Star ⭐
+[Deploy Demo](https://github.com/Guna-Asher/linux-reliability-monitor) | [Live Logs](logs/) | Fork & Star ⭐
 
 ---
 
