@@ -188,7 +188,3 @@ Restarted nginx successfully.
 
 [Deploy Demo](https://github.com/Guna-Asher/linux-reliability-monitor) | [Live Logs](logs/) | Fork & Star ⭐
 
----
-
-*Production-ready monitoring at scale. Engineered for reliability.*
-
