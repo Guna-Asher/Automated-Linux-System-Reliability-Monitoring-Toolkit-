@@ -186,5 +186,5 @@ Restarted nginx successfully.
 - **Containerization**: Dockerfile for Kubernetes CronJob.
 - **Distributed Tracing**: OpenTelemetry for multi-host fleets.
 
-[Deploy Demo](https://github.com/Guna-Asher/linux-reliability-monitor) | [Live Logs](logs/) | Fork & Star ⭐
+[Deploy Demo](https://github.com/Guna-Asher/linux-reliability-monitor) | [Live Logs](logs/) | Fork & Star 
 
